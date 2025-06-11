@@ -20,24 +20,20 @@ A simple console-based typing speed tester written in Python. This program measu
 6. **View your results** (time taken, WPM, accuracy).
 
 ## Example Output
-Welcome to the Typing Speed Tester!
 
-Type the following sentence as fast and accurately as you can:
-
-Artificial intelligence is transforming the world.
-
-Press Enter when you are ready to start...
-[You press Enter]
-
-Start typing now. Press Enter when you finish.
-Artificial intelligence is transforming the world.
-[You press Enter]
-
----------------------RESULTS---------------------
-Time taken: 12.34 seconds
-Words per minute (WPM): 29.03
-Accuracy: 100.00%
-Great job! You typed the sentence exactly.
+- **Welcome to the Typing Speed Tester!**
+- **Type the following sentence as fast and accurately as you can:**
+- **Artificial intelligence is transforming the world.**
+- **Press Enter when you are ready to start...**
+- **[You press Enter]**
+- **Start typing now. Press Enter when you finish.**
+- **Artificial intelligence is transforming the world.**
+- **[You press Enter]**
+- **---------------------RESULTS---------------------**
+- **Time taken: 12.34 seconds**
+- **Words per minute (WPM): 29.03**
+- **Accuracy: 100.00%**
+- **Great job! You typed the sentence exactly.**
 
 
 ## Requirements
